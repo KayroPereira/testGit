@@ -44,6 +44,7 @@
         android:layout_marginTop="128dp"
         android:text="Button"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="71dp" />
+        tools:layout_editor_absoluteX="71dp"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
